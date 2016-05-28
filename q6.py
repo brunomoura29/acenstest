@@ -8,5 +8,7 @@ soup = BeautifulSoup(pagina, "html.parser")
 
 print(pagina)
 
+#fiz confusao com as tags 
+
 
 
